@@ -1,6 +1,4 @@
 def generate_odd_numbers(n):
-    if n <= 0:
-        return ""
     odd_numbers = []
     count = 0
     num = 1
