@@ -1,5 +1,6 @@
 # POTTABATHULA-TARUN
 Using Python
+
 Tandemloop Technologies Reference Document
 Objective: This assignment aims to assess your basic programming skills and problem-solving abilities related to data structures, algorithms, and object-oriented programming principles. The goal is to create solutions for four distinct problems using your preferred programming language, demonstrating proficiency in implementing fundamental programming concepts within a limited timeframe. The expected learning outcomes include showcasing your ability to translate problem descriptions into functional code, adhering to specified input/output requirements, and effectively managing time constraints.
 
